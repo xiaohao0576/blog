@@ -1,0 +1,4 @@
+baseURL = "https://xiaohao0576.github.io/"
+languageCode = "en-us"
+title = "Hogan Blog"
+theme = "ananke"
