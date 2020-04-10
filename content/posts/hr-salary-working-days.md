@@ -1,7 +1,7 @@
 ---
 title: "Hr Salary Working Days"
 date: 2020-04-10T14:25:42+07:00
-draft: true
+draft: false
 ---
 ## Salary rule中计算员工每天的薪资
 
