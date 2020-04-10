@@ -1,4 +1,5 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:xiaohao0576/xiaohao0576.github.io.git
+	ignore = all
 

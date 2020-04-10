@@ -56,10 +56,12 @@ def get_work_days_data(employee, years=(2020, 2021, 2022)):
             month_data.append(data)
         working_days[year]=month_data
     return working_days
-    ```
+```
+
 以上代码保存到一个文件，比如workingdays.py
 进入odoo-bin shell，然后import以上文件，并执行方法
-```
+
+``` python
 ./odoo-bin shell -d erp
 import workingdays
 user=self.env['hr.employee'].browse(2) # uid自己选取
